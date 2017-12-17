@@ -1,4 +1,4 @@
-# Notes on elementary algorithmic trading using statistical modelling
+# Basic statistical modelling for trading algos
 This is a collection of IPython notebooks that cover introductory material on aspects of algorithmic trading. A mathematical approach is offered with some prior knowledge of basic probability and statistics assumed. The examples use real historical data pulled from Quandl and Yahoo Finance. This is done with help of the `finance` library included.
 
 All information is sourced from Quantopian and Wikipedia. 
